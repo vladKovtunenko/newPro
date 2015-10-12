@@ -10,6 +10,12 @@ namespace ConsoleApplication18
     {
         static void Main(string[] args)
         {
+
         }
+    }
+    public class TempRosta{
+        double[] arr;
+
+       
     }
 }
