@@ -9,13 +9,14 @@ namespace ConsoleApplication18
     class Program
     {
         static void Main(string[] args)
+
         {
 
         }
     }
     public class TempRosta{
         double[] arr;
-
+        int i;
        
     }
 }
