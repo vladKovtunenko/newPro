@@ -17,6 +17,7 @@ namespace ConsoleApplication18
     public class TempRosta{
         double[] arr;
         int i;
+        int d;
        
     }
 }
